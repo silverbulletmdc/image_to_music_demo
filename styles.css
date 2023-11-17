@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.pub{
+    text-align: center;
+    margin-bottom: 50px;
+    color: gray;
+}
+.music_table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td{
+    border: 1px solid rgb(188, 183, 183);
+    border-collapse: collapse;
+}
+
+image {
+    width: 512px;
+}
+th, td {
+    padding: 15px;
+}
